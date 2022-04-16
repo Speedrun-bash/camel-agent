@@ -36,3 +36,6 @@ bagi kalian yg mempunyai sesuatu untuk mengembangkan perpustakaan ini kalian bis
 
 terinspirasi dari
 - [WWW::UserAgent::Random](https://metacpan.org/pod/WWW::UserAgent::Random)
+
+depencies :
+`HTTP::Tiny`
